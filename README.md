@@ -2,10 +2,7 @@
 
 ## 🖥 程式語言
 
-|   **HTML**   |  **CSS**   | **Javascript** |
-| :----------: | :--------: | :------------: |
-| **React.js** | **Vue.js** | **Bootstrap**  |
-|  **GitHub**  |   **C#**   |   **MSSQL**    |
+**HTML / CSS / Javascript / React.js / Vue.js / Bootstrap / GitHub / C# / MSSQL**
 
 ## 🗂 作品連結
 
