@@ -8,17 +8,17 @@
 
 📘 React
 
-- ⭐️ 作品集
+- ⭐️ 作品集 ⭐️
 
   🏞 [網站](https://yiminprogram.github.io/portfolio/)
   🗃 [GitHub 頁面](https://github.com/yiminprogram/portfolio)
 
-- ⭐️ 空氣品質查詢
+- 空氣品質查詢
 
   🏞 [網站](https://yiminprogram.github.io/react-tech-research/)
   🗃 [GitHub 頁面](https://github.com/yiminprogram/react-tech-research)
 
-- ⭐️ Facebook Clone 🚧
+- Facebook Clone 🚧
 
   🏞 [網站](https://yiminprogram.github.io/react-facebook-clone/)
   🗃 [GitHub 頁面](https://github.com/yiminprogram/react-facebook-clone)
@@ -27,7 +27,7 @@
 
 📗 Vue
 
-- ⭐️ 購物車
+- 購物車
 
   🏞 [網站](https://yiminprogram.github.io/vue-shopping-cart/)
   🗃 [GitHub 頁面](https://github.com/yiminprogram/vue-shopping-cart)
@@ -36,7 +36,7 @@
 
 📕 養成班
 
-- ⭐️ 作品集
+- 作品集
 
   🏞 [首頁](https://yiminprogram.github.io/ProjectWebSite/src/Homepage.html)
   🏞 [搜尋頁面](https://yiminprogram.github.io/ProjectWebSite/src/SpaceSearch.html)
