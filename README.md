@@ -1,4 +1,4 @@
-## Code
+## :globe_with_meridians: Code
 
 **HTML  /  CSS ( SCSS )  /  Javascript ( jQuery , Typescript )**
 
@@ -6,7 +6,7 @@
 
 **Bootstrap / Git / C# / MSSQL**
 
-## Portfolio Website
+## :globe_with_meridians: Portfolio Website
 
 :star: Portfolio Website 
 
