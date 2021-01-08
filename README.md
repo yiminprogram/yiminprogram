@@ -1,14 +1,17 @@
-# 🌽 Github Repositories List 🌽
+## Code
 
-## 🖥 
+**HTML  /  CSS ( SCSS )  /  Javascript ( jQuery , Typescript )**
 
-**HTML / CSS / Javascript / React.js / Vue.js / Bootstrap / GitHub / C# / MSSQL**
+**Reactjs / Vuejs**
 
-## 🗂 Portfolio
+**Bootstrap / Git / C# / MSSQL**
 
-📘 React
+## Portfolio Website
 
-⭐️ Portfolio ⭐️
+:star: Portfolio Website 
 
-🏞 [Website](https://yiminprogram.github.io/portfolio/)
-🗃 [Code](https://github.com/yiminprogram/portfolio)
+[https://yiminprogram.github.io/portfolio/](https://yiminprogram.github.io/portfolio/)
+
+:star: Code Source 
+
+[https://github.com/yiminprogram/portfolio](https://github.com/yiminprogram/portfolio)
