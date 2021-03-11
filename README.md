@@ -1,6 +1,6 @@
 ## :globe_with_meridians: Code
 
-**HTML  /  CSS ( SCSS )  /  Javascript ( jQuery , Typescript )**
+**HTML  /  CSS ( SCSS,styled-components )  /  Javascript ( jQuery , Typescript )**
 
 **Reactjs / Vuejs**
 
@@ -15,3 +15,7 @@
 :star: Code Source 
 
 [https://github.com/yiminprogram/portfolio](https://github.com/yiminprogram/portfolio)
+
+:star: NoteBook
+
+[https://github.com/yiminprogram/notebook](https://github.com/yiminprogram/notebook)
