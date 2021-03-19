@@ -1,13 +1,3 @@
-## :globe_with_meridians: Code
-
-**HTML  /  CSS ( SCSS,styled-components )  /  Javascript ( jQuery , Typescript )**
-
-**Reactjs / Vuejs**
-
-**Bootstrap / Git / C# / MSSQL**
-
-## :globe_with_meridians: Portfolio Website
-
 :star: Portfolio Website 
 
 [https://yiminprogram.github.io/portfolio/](https://yiminprogram.github.io/portfolio/)
