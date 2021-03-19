@@ -1,11 +1,11 @@
-:star: Portfolio Website 
+⭐ Portfolio Website 
 
 [https://yiminprogram.github.io/portfolio/](https://yiminprogram.github.io/portfolio/)
 
-:star: Code Source 
+💻 Portfolio Code Source 
 
 [https://github.com/yiminprogram/portfolio](https://github.com/yiminprogram/portfolio)
 
-:star: NoteBook
+📖 NoteBook
 
 [https://github.com/yiminprogram/notebook](https://github.com/yiminprogram/notebook)
