@@ -5,7 +5,3 @@
 💻 Portfolio Code Source 
 
 [https://github.com/yiminprogram/portfolio](https://github.com/yiminprogram/portfolio)
-
-📖 NoteBook
-
-[https://github.com/yiminprogram/notebook](https://github.com/yiminprogram/notebook)
